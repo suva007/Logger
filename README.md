@@ -1,4 +1,4 @@
-## Logger
+## Logger - CPP microservices
 ![Email-Service](https://socialify.git.ci/suva007/logger/image?description=1&font=Bitter&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark)
 
 ## Features
