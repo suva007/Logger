@@ -1,0 +1,342 @@
+[2023-11-18 17:42:34.077.615] Entering function: checkForRedefinitionsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 196 | (1)
+[2023-11-18 17:42:34.078.877] Entering function: getSourcesForModelWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 477 | (1)
+[2023-11-18 17:42:34.079.573] Entering function: getModelWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 929 | (1)
+[2023-11-18 17:42:34.080.227] Exiting function : getModelWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 929 | (1)
+[2023-11-18 17:42:34.080.770] Elapsed time : 0.000745 seconds.
+[2023-11-18 17:42:34.081.311] Entering function: getDictDepsFromModel in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 144 | (1)
+[2023-11-18 17:42:34.081.872] Exiting function : getDictDepsFromModel in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 144 | (1)
+[2023-11-18 17:42:34.082.394] Elapsed time : 0.000539 seconds.
+[2023-11-18 17:42:34.082.974] Entering function: getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (1)
+[2023-11-18 17:42:34.083.589] Exiting function : getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (1)
+[2023-11-18 17:42:34.084.208] Elapsed time : 0.000628 seconds.
+[2023-11-18 17:42:34.084.793] Entering function: getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (1)
+[2023-11-18 17:42:34.085.415] Exiting function : getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (1)
+[2023-11-18 17:42:34.086.026] Elapsed time : 0.000615 seconds.
+[2023-11-18 17:42:34.086.748] Entering function: getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (1)
+[2023-11-18 17:42:34.087.344] Exiting function : getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (1)
+[2023-11-18 17:42:34.087.925] Elapsed time : 0.000575 seconds.
+[2023-11-18 17:42:34.088.509] Exiting function : getSourcesForModelWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 477 | (1)
+[2023-11-18 17:42:34.089.245] Elapsed time : 0.009814 seconds.
+[2023-11-18 17:42:34.089.809] Entering function: hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (1)
+[2023-11-18 17:42:34.090.316] Exiting function : hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (1)
+[2023-11-18 17:42:34.090.824] Elapsed time : 0.000508 seconds.
+[2023-11-18 17:42:34.091.313] Entering function: getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (1)
+[2023-11-18 17:42:34.091.834] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (1)
+[2023-11-18 17:42:34.092.360] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (1)
+[2023-11-18 17:42:34.092.930] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (1)
+[2023-11-18 17:42:34.093.470] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (1)
+[2023-11-18 17:42:34.093.992] Elapsed time : 0.000540 seconds.
+[2023-11-18 17:42:34.094.587] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (1)
+[2023-11-18 17:42:34.095.141] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (1)
+[2023-11-18 17:42:34.095.648] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (1)
+[2023-11-18 17:42:34.096.149] Elapsed time : 0.000497 seconds.
+[2023-11-18 17:42:34.207.766] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (1)
+[2023-11-18 17:42:34.208.395] Entering function: setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (1)
+[2023-11-18 17:42:34.209.202] Exiting function : setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (1)
+[2023-11-18 17:42:34.209.993] Elapsed time : 0.000796 seconds.
+[2023-11-18 17:42:34.210.676] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (1)
+[2023-11-18 17:42:34.211.348] Elapsed time : 0.003028 seconds.
+[2023-11-18 17:42:34.211.893] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (2)
+[2023-11-18 17:42:34.212.534] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (2)
+[2023-11-18 17:42:34.213.259] Elapsed time : 0.000547 seconds.
+[2023-11-18 17:42:34.213.897] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (1)
+[2023-11-18 17:42:34.214.503] Elapsed time : 0.119263 seconds.
+[2023-11-18 17:42:34.215.336] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (1)
+[2023-11-18 17:42:34.216.191] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (1)
+[2023-11-18 17:42:34.216.840] Elapsed time : 0.000887 seconds.
+[2023-11-18 17:42:34.217.440] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (1)
+[2023-11-18 17:42:34.219.456] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (1)
+[2023-11-18 17:42:34.220.080] Elapsed time : 0.001984 seconds.
+[2023-11-18 17:42:34.220.699] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (1)
+[2023-11-18 17:42:34.221.266] Elapsed time : 0.128294 seconds.
+[2023-11-18 17:42:34.221.798] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (1)
+[2023-11-18 17:42:34.222.346] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (1)
+[2023-11-18 17:42:34.222.876] Elapsed time : 0.000545 seconds.
+[2023-11-18 17:42:34.223.410] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (1)
+[2023-11-18 17:42:34.223.966] Elapsed time : 0.131560 seconds.
+[2023-11-18 17:42:34.224.509] Exiting function : getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (1)
+[2023-11-18 17:42:34.225.086] Elapsed time : 0.133163 seconds.
+[2023-11-18 17:42:34.225.678] Entering function: getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (2)
+[2023-11-18 17:42:34.226.228] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (2)
+[2023-11-18 17:42:34.226.799] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (2)
+[2023-11-18 17:42:34.227.313] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (2)
+[2023-11-18 17:42:34.227.795] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (2)
+[2023-11-18 17:42:34.228.271] Elapsed time : 0.000478 seconds.
+[2023-11-18 17:42:34.228.771] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (2)
+[2023-11-18 17:42:34.229.249] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (2)
+[2023-11-18 17:42:34.229.759] Elapsed time : 0.000481 seconds.
+[2023-11-18 17:42:34.230.296] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (2)
+[2023-11-18 17:42:34.230.885] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (2)
+[2023-11-18 17:42:34.231.401] Elapsed time : 0.000577 seconds.
+[2023-11-18 17:42:34.231.928] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (2)
+[2023-11-18 17:42:34.232.485] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (2)
+[2023-11-18 17:42:34.233.110] Elapsed time : 0.000559 seconds.
+[2023-11-18 17:42:34.233.640] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (2)
+[2023-11-18 17:42:34.234.216] Elapsed time : 0.006857 seconds.
+[2023-11-18 17:42:34.234.750] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (2)
+[2023-11-18 17:42:34.235.413] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (2)
+[2023-11-18 17:42:34.235.950] Elapsed time : 0.000597 seconds.
+[2023-11-18 17:42:34.236.599] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (2)
+[2023-11-18 17:42:34.237.281] Elapsed time : 0.010290 seconds.
+[2023-11-18 17:42:34.238.064] Exiting function : getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (2)
+[2023-11-18 17:42:34.238.821] Elapsed time : 0.012226 seconds.
+[2023-11-18 17:42:34.239.542] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (2)
+[2023-11-18 17:42:34.240.225] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (2)
+[2023-11-18 17:42:34.241.197] Elapsed time : 0.000682 seconds.
+[2023-11-18 17:42:34.241.923] Entering function: clearVisitedDictionaries in File: sl/data/duplicateandconsistencycheck/StereotypeDupCheckUtil.cpp at Line: 339 | (1)
+[2023-11-18 17:42:34.242.544] Exiting function : clearVisitedDictionaries in File: sl/data/duplicateandconsistencycheck/StereotypeDupCheckUtil.cpp at Line: 339 | (1)
+[2023-11-18 17:42:34.243.169] Elapsed time : 0.000635 seconds.
+[2023-11-18 17:42:34.244.096] Exiting function : checkForRedefinitionsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 196 | (1)
+[2023-11-18 17:42:34.244.700] Elapsed time : 0.166528 seconds.
+[2023-11-18 17:42:34.805.097] Entering function: checkForDataConsistencyWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 314 | (1)
+[2023-11-18 17:42:34.805.864] Entering function: getSourcesForModelAndAllDescendentsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 557 | (1)
+[2023-11-18 17:42:34.806.443] Entering function: getDictDepsFromModelAndAllDes in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 213 | (1)
+[2023-11-18 17:42:34.807.020] Exiting function : getDictDepsFromModelAndAllDes in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 213 | (1)
+[2023-11-18 17:42:34.807.588] Elapsed time : 0.000578 seconds.
+[2023-11-18 17:42:34.808.124] Entering function: getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (2)
+[2023-11-18 17:42:34.808.740] Exiting function : getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (2)
+[2023-11-18 17:42:34.809.323] Elapsed time : 0.000586 seconds.
+[2023-11-18 17:42:34.809.879] Entering function: getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (2)
+[2023-11-18 17:42:34.810.462] Exiting function : getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (2)
+[2023-11-18 17:42:34.811.011] Elapsed time : 0.000594 seconds.
+[2023-11-18 17:42:34.811.642] Entering function: getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (2)
+[2023-11-18 17:42:34.812.306] Exiting function : getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (2)
+[2023-11-18 17:42:34.812.931] Elapsed time : 0.000664 seconds.
+[2023-11-18 17:42:34.813.540] Exiting function : getSourcesForModelAndAllDescendentsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 557 | (1)
+[2023-11-18 17:42:34.814.130] Elapsed time : 0.007676 seconds.
+[2023-11-18 17:42:34.814.816] Entering function: hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (2)
+[2023-11-18 17:42:34.815.517] Exiting function : hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (2)
+[2023-11-18 17:42:34.816.126] Elapsed time : 0.000761 seconds.
+[2023-11-18 17:42:34.816.728] Entering function: getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (1)
+[2023-11-18 17:42:34.817.372] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (3)
+[2023-11-18 17:42:34.817.988] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (3)
+[2023-11-18 17:42:34.818.573] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (3)
+[2023-11-18 17:42:34.819.203] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (3)
+[2023-11-18 17:42:34.819.836] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (3)
+[2023-11-18 17:42:34.820.420] Elapsed time : 0.000663 seconds.
+[2023-11-18 17:42:34.927.472] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (3)
+[2023-11-18 17:42:34.928.083] Entering function: setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (2)
+[2023-11-18 17:42:34.928.680] Exiting function : setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (2)
+[2023-11-18 17:42:34.929.194] Elapsed time : 0.000549 seconds.
+[2023-11-18 17:42:34.929.900] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (3)
+[2023-11-18 17:42:34.930.428] Elapsed time : 0.002431 seconds.
+[2023-11-18 17:42:34.930.944] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (4)
+[2023-11-18 17:42:34.931.452] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (4)
+[2023-11-18 17:42:34.932.041] Elapsed time : 0.000486 seconds.
+[2023-11-18 17:42:34.932.573] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (3)
+[2023-11-18 17:42:34.933.080] Elapsed time : 0.114009 seconds.
+[2023-11-18 17:42:34.933.581] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (3)
+[2023-11-18 17:42:34.934.224] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (3)
+[2023-11-18 17:42:34.934.780] Elapsed time : 0.000610 seconds.
+[2023-11-18 17:42:34.935.372] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (3)
+[2023-11-18 17:42:34.936.816] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (3)
+[2023-11-18 17:42:34.937.387] Elapsed time : 0.001427 seconds.
+[2023-11-18 17:42:34.937.964] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (3)
+[2023-11-18 17:42:34.938.504] Elapsed time : 0.119986 seconds.
+[2023-11-18 17:42:34.939.088] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (3)
+[2023-11-18 17:42:34.939.634] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (3)
+[2023-11-18 17:42:34.940.188] Elapsed time : 0.000543 seconds.
+[2023-11-18 17:42:34.940.726] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (3)
+[2023-11-18 17:42:34.941.351] Elapsed time : 0.123380 seconds.
+[2023-11-18 17:42:34.941.951] Exiting function : getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (1)
+[2023-11-18 17:42:34.942.589] Elapsed time : 0.125222 seconds.
+[2023-11-18 17:42:34.943.208] Entering function: getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (2)
+[2023-11-18 17:42:34.943.774] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (4)
+[2023-11-18 17:42:34.944.340] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (4)
+[2023-11-18 17:42:34.945.053] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (4)
+[2023-11-18 17:42:34.945.664] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (4)
+[2023-11-18 17:42:34.946.236] Elapsed time : 0.000608 seconds.
+[2023-11-18 17:42:34.946.911] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (4)
+[2023-11-18 17:42:34.947.599] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (4)
+[2023-11-18 17:42:34.948.122] Elapsed time : 0.000739 seconds.
+[2023-11-18 17:42:34.948.861] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (4)
+[2023-11-18 17:42:34.949.438] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (4)
+[2023-11-18 17:42:34.950.011] Elapsed time : 0.000710 seconds.
+[2023-11-18 17:42:34.950.594] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (4)
+[2023-11-18 17:42:34.951.182] Elapsed time : 0.006242 seconds.
+[2023-11-18 17:42:34.951.769] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (4)
+[2023-11-18 17:42:34.952.599] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (4)
+[2023-11-18 17:42:34.953.284] Elapsed time : 0.000843 seconds.
+[2023-11-18 17:42:34.954.128] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (4)
+[2023-11-18 17:42:34.954.925] Elapsed time : 0.010366 seconds.
+[2023-11-18 17:42:34.955.487] Exiting function : getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (2)
+[2023-11-18 17:42:34.956.288] Elapsed time : 0.012307 seconds.
+[2023-11-18 17:42:34.957.110] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (4)
+[2023-11-18 17:42:34.957.736] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (4)
+[2023-11-18 17:42:34.958.356] Elapsed time : 0.000606 seconds.
+[2023-11-18 17:42:34.959.376] Exiting function : checkForDataConsistencyWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 314 | (1)
+[2023-11-18 17:42:34.959.983] Elapsed time : 0.154328 seconds.
+[2023-11-18 17:42:35.189.070] Entering function: getSourceInfoListForModelAndAllDescendents in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 654 | (1)
+[2023-11-18 17:42:35.190.215] Exiting function : getSourceInfoListForModelAndAllDescendents in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 654 | (1)
+[2023-11-18 17:42:35.190.811] Elapsed time : 0.001137 seconds.
+[2023-11-18 17:44:13.737.256] Entering function: checkForRedefinitionsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 196 | (2)
+[2023-11-18 17:44:13.738.014] Entering function: getSourcesForModelWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 477 | (2)
+[2023-11-18 17:44:13.738.530] Entering function: getModelWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 929 | (2)
+[2023-11-18 17:44:13.739.044] Exiting function : getModelWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 929 | (2)
+[2023-11-18 17:44:13.739.520] Elapsed time : 0.000516 seconds.
+[2023-11-18 17:44:13.740.056] Entering function: getDictDepsFromModel in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 144 | (2)
+[2023-11-18 17:44:13.740.595] Exiting function : getDictDepsFromModel in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 144 | (2)
+[2023-11-18 17:44:13.741.166] Elapsed time : 0.000532 seconds.
+[2023-11-18 17:44:13.741.868] Entering function: getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (3)
+[2023-11-18 17:44:13.742.604] Exiting function : getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (3)
+[2023-11-18 17:44:13.743.326] Elapsed time : 0.000824 seconds.
+[2023-11-18 17:44:13.743.827] Entering function: getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (3)
+[2023-11-18 17:44:13.744.317] Exiting function : getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (3)
+[2023-11-18 17:44:13.744.921] Elapsed time : 0.000499 seconds.
+[2023-11-18 17:44:13.745.530] Entering function: getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (3)
+[2023-11-18 17:44:13.746.037] Exiting function : getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (3)
+[2023-11-18 17:44:13.746.452] Elapsed time : 0.000541 seconds.
+[2023-11-18 17:44:13.746.979] Exiting function : getSourcesForModelWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 477 | (2)
+[2023-11-18 17:44:13.748.528] Elapsed time : 0.008968 seconds.
+[2023-11-18 17:44:13.749.077] Entering function: hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (3)
+[2023-11-18 17:44:13.749.740] Exiting function : hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (3)
+[2023-11-18 17:44:13.752.631] Elapsed time : 0.000635 seconds.
+[2023-11-18 17:44:13.753.283] Entering function: getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (3)
+[2023-11-18 17:44:13.754.119] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (5)
+[2023-11-18 17:44:13.754.649] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (5)
+[2023-11-18 17:44:13.755.252] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (3)
+[2023-11-18 17:44:13.755.811] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (3)
+[2023-11-18 17:44:13.756.377] Elapsed time : 0.000545 seconds.
+[2023-11-18 17:44:13.759.682] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (5)
+[2023-11-18 17:44:13.760.263] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (5)
+[2023-11-18 17:44:13.760.830] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (5)
+[2023-11-18 17:44:13.761.298] Elapsed time : 0.000607 seconds.
+[2023-11-18 17:44:13.832.784] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (5)
+[2023-11-18 17:44:13.833.429] Entering function: setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (3)
+[2023-11-18 17:44:13.834.052] Exiting function : setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (3)
+[2023-11-18 17:44:13.834.635] Elapsed time : 0.000642 seconds.
+[2023-11-18 17:44:13.835.297] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (5)
+[2023-11-18 17:44:13.835.882] Elapsed time : 0.002647 seconds.
+[2023-11-18 17:44:13.836.370] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (6)
+[2023-11-18 17:44:13.836.883] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (6)
+[2023-11-18 17:44:13.837.400] Elapsed time : 0.000475 seconds.
+[2023-11-18 17:44:13.837.988] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (5)
+[2023-11-18 17:44:13.838.519] Elapsed time : 0.078346 seconds.
+[2023-11-18 17:44:13.839.160] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (5)
+[2023-11-18 17:44:13.839.821] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (5)
+[2023-11-18 17:44:13.840.346] Elapsed time : 0.000713 seconds.
+[2023-11-18 17:44:13.840.837] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (5)
+[2023-11-18 17:44:13.841.961] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (5)
+[2023-11-18 17:44:13.842.518] Elapsed time : 0.001102 seconds.
+[2023-11-18 17:44:13.843.035] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (5)
+[2023-11-18 17:44:13.843.500] Elapsed time : 0.088372 seconds.
+[2023-11-18 17:44:13.844.039] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (5)
+[2023-11-18 17:44:13.844.585] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (5)
+[2023-11-18 17:44:13.845.153] Elapsed time : 0.000552 seconds.
+[2023-11-18 17:44:13.845.679] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (5)
+[2023-11-18 17:44:13.846.221] Elapsed time : 0.091588 seconds.
+[2023-11-18 17:44:13.847.036] Exiting function : getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (3)
+[2023-11-18 17:44:13.847.739] Elapsed time : 0.093501 seconds.
+[2023-11-18 17:44:13.848.275] Entering function: getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (4)
+[2023-11-18 17:44:13.848.769] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (6)
+[2023-11-18 17:44:13.849.271] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (6)
+[2023-11-18 17:44:13.850.530] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (4)
+[2023-11-18 17:44:13.851.164] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/ModelWorkspaceHandWritten.cpp at Line: 140 | (4)
+[2023-11-18 17:44:13.851.723] Elapsed time : 0.000847 seconds.
+[2023-11-18 17:44:13.852.265] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (6)
+[2023-11-18 17:44:13.852.853] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (6)
+[2023-11-18 17:44:13.853.378] Elapsed time : 0.000582 seconds.
+[2023-11-18 17:44:13.853.930] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (6)
+[2023-11-18 17:44:13.854.585] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (6)
+[2023-11-18 17:44:13.855.115] Elapsed time : 0.000641 seconds.
+[2023-11-18 17:44:13.855.620] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (6)
+[2023-11-18 17:44:13.856.239] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (6)
+[2023-11-18 17:44:13.856.877] Elapsed time : 0.000584 seconds.
+[2023-11-18 17:44:13.857.559] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (6)
+[2023-11-18 17:44:13.858.234] Elapsed time : 0.008238 seconds.
+[2023-11-18 17:44:13.858.816] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (6)
+[2023-11-18 17:44:13.859.402] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (6)
+[2023-11-18 17:44:13.860.069] Elapsed time : 0.000542 seconds.
+[2023-11-18 17:44:13.860.659] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (6)
+[2023-11-18 17:44:13.861.202] Elapsed time : 0.011846 seconds.
+[2023-11-18 17:44:13.861.928] Exiting function : getDiagnosticForRedefinitionInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 246 | (4)
+[2023-11-18 17:44:13.862.539] Elapsed time : 0.013503 seconds.
+[2023-11-18 17:44:13.863.177] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (6)
+[2023-11-18 17:44:13.864.017] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (6)
+[2023-11-18 17:44:13.864.506] Elapsed time : 0.000891 seconds.
+[2023-11-18 17:44:13.865.062] Entering function: clearVisitedDictionaries in File: sl/data/duplicateandconsistencycheck/StereotypeDupCheckUtil.cpp at Line: 339 | (2)
+[2023-11-18 17:44:13.865.640] Exiting function : clearVisitedDictionaries in File: sl/data/duplicateandconsistencycheck/StereotypeDupCheckUtil.cpp at Line: 339 | (2)
+[2023-11-18 17:44:13.866.363] Elapsed time : 0.000558 seconds.
+[2023-11-18 17:44:13.867.470] Exiting function : checkForRedefinitionsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 196 | (2)
+[2023-11-18 17:44:13.869.970] Elapsed time : 0.130410 seconds.
+[2023-11-18 17:44:13.931.038] Entering function: checkForDataConsistencyWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 314 | (2)
+[2023-11-18 17:44:13.931.776] Entering function: getSourcesForModelAndAllDescendentsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 557 | (2)
+[2023-11-18 17:44:13.932.363] Entering function: getDictDepsFromModelAndAllDes in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 213 | (2)
+[2023-11-18 17:44:13.933.077] Exiting function : getDictDepsFromModelAndAllDes in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 213 | (2)
+[2023-11-18 17:44:13.933.601] Elapsed time : 0.000709 seconds.
+[2023-11-18 17:44:13.934.130] Entering function: getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (4)
+[2023-11-18 17:44:13.934.659] Exiting function : getDictionarySource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 909 | (4)
+[2023-11-18 17:44:13.935.211] Elapsed time : 0.000515 seconds.
+[2023-11-18 17:44:13.935.755] Entering function: getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (4)
+[2023-11-18 17:44:13.936.273] Exiting function : getBaseWorkspaceSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 922 | (4)
+[2023-11-18 17:44:13.936.777] Elapsed time : 0.000511 seconds.
+[2023-11-18 17:44:13.937.320] Entering function: getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (4)
+[2023-11-18 17:44:13.937.820] Exiting function : getBrokeredSource in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 893 | (4)
+[2023-11-18 17:44:13.938.310] Elapsed time : 0.000521 seconds.
+[2023-11-18 17:44:13.938.815] Exiting function : getSourcesForModelAndAllDescendentsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 557 | (2)
+[2023-11-18 17:44:13.939.314] Elapsed time : 0.007033 seconds.
+[2023-11-18 17:44:13.939.881] Entering function: hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (4)
+[2023-11-18 17:44:13.940.490] Exiting function : hasSourcesExceptMWSAndBWS in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 433 | (4)
+[2023-11-18 17:44:13.941.018] Elapsed time : 0.000631 seconds.
+[2023-11-18 17:44:13.941.645] Entering function: getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (3)
+[2023-11-18 17:44:13.942.207] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (7)
+[2023-11-18 17:44:13.942.751] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (7)
+[2023-11-18 17:44:13.943.485] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (7)
+[2023-11-18 17:44:13.944.252] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (7)
+[2023-11-18 17:44:13.944.867] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (7)
+[2023-11-18 17:44:13.945.562] Elapsed time : 0.000602 seconds.
+[2023-11-18 17:44:14.020.380] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (7)
+[2023-11-18 17:44:14.021.103] Entering function: setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (4)
+[2023-11-18 17:44:14.021.838] Exiting function : setDDSrcVsNodeIDMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 462 | (4)
+[2023-11-18 17:44:14.022.485] Elapsed time : 0.000689 seconds.
+[2023-11-18 17:44:14.023.137] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (7)
+[2023-11-18 17:44:14.023.821] Elapsed time : 0.002867 seconds.
+[2023-11-18 17:44:14.024.516] Entering function: operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (8)
+[2023-11-18 17:44:14.025.209] Exiting function : operator() in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 178 | (8)
+[2023-11-18 17:44:14.025.879] Elapsed time : 0.000643 seconds.
+[2023-11-18 17:44:14.026.510] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (7)
+[2023-11-18 17:44:14.027.080] Elapsed time : 0.083011 seconds.
+[2023-11-18 17:44:14.027.711] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (7)
+[2023-11-18 17:44:14.028.479] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (7)
+[2023-11-18 17:44:14.029.153] Elapsed time : 0.000756 seconds.
+[2023-11-18 17:44:14.029.783] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (7)
+[2023-11-18 17:44:14.031.030] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (7)
+[2023-11-18 17:44:14.031.573] Elapsed time : 0.001223 seconds.
+[2023-11-18 17:44:14.032.083] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (7)
+[2023-11-18 17:44:14.032.616] Elapsed time : 0.089327 seconds.
+[2023-11-18 17:44:14.033.159] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (7)
+[2023-11-18 17:44:14.033.683] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (7)
+[2023-11-18 17:44:14.034.272] Elapsed time : 0.000525 seconds.
+[2023-11-18 17:44:14.035.098] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (7)
+[2023-11-18 17:44:14.035.923] Elapsed time : 0.092664 seconds.
+[2023-11-18 17:44:14.036.637] Exiting function : getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (3)
+[2023-11-18 17:44:14.037.354] Elapsed time : 0.094823 seconds.
+[2023-11-18 17:44:14.038.000] Entering function: getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (4)
+[2023-11-18 17:44:14.038.570] Entering function: getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (8)
+[2023-11-18 17:44:14.039.148] Entering function: getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (8)
+[2023-11-18 17:44:14.039.683] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (8)
+[2023-11-18 17:44:14.040.208] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/DataDictionaryHandWritten.cpp at Line: 148 | (8)
+[2023-11-18 17:44:14.040.835] Elapsed time : 0.000524 seconds.
+[2023-11-18 17:44:14.042.059] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (8)
+[2023-11-18 17:44:14.042.680] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BaseWorkspaceHandWritten.cpp at Line: 143 | (8)
+[2023-11-18 17:44:14.043.626] Elapsed time : 0.000600 seconds.
+[2023-11-18 17:44:14.044.178] Entering function: getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (8)
+[2023-11-18 17:44:14.044.730] Exiting function : getAllSymbolsWithDuplicateInfo in File: sl/data/duplicateandconsistencycheck/BrokeredDataHandWritten.cpp at Line: 144 | (8)
+[2023-11-18 17:44:14.045.295] Elapsed time : 0.000545 seconds.
+[2023-11-18 17:44:14.045.965] Exiting function : getAllSymbolsWithDupInfoAndDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 811 | (8)
+[2023-11-18 17:44:14.046.532] Elapsed time : 0.006733 seconds.
+[2023-11-18 17:44:14.047.105] Entering function: getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (8)
+[2023-11-18 17:44:14.047.667] Exiting function : getSLDDSymbolsInfo in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 496 | (8)
+[2023-11-18 17:44:14.048.236] Elapsed time : 0.000558 seconds.
+[2023-11-18 17:44:14.048.776] Exiting function : getDuplicateSymbolsWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 845 | (8)
+[2023-11-18 17:44:14.049.384] Elapsed time : 0.010187 seconds.
+[2023-11-18 17:44:14.050.358] Exiting function : getDiagnosticForConsistencyInSection in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 287 | (4)
+[2023-11-18 17:44:14.050.956] Elapsed time : 0.012381 seconds.
+[2023-11-18 17:44:14.052.022] Entering function: clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (8)
+[2023-11-18 17:44:14.052.616] Exiting function : clearDDNodeIDsMap in File: sl/data/duplicateandconsistencycheck/DupCheckUtil.cpp at Line: 454 | (8)
+[2023-11-18 17:44:14.053.230] Elapsed time : 0.000624 seconds.
+[2023-11-18 17:44:14.054.209] Exiting function : checkForDataConsistencyWithDiagnostic in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 314 | (2)
+[2023-11-18 17:44:14.054.879] Elapsed time : 0.123128 seconds.
+[2023-11-18 17:44:14.097.182] Entering function: getSourceInfoListForModelAndAllDescendents in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 654 | (2)
+[2023-11-18 17:44:14.097.933] Exiting function : getSourceInfoListForModelAndAllDescendents in File: sl/data/duplicateandconsistencycheck/DuplicateAndConsistencyCheckHandWritten.cpp at Line: 654 | (2)
+[2023-11-18 17:44:14.098.468] Elapsed time : 0.000927 seconds.
